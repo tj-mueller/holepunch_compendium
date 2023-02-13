@@ -1,0 +1,11 @@
+install.packages(
+ c( 
+  "dplyr",
+  "ggplot2",
+  "ggthemes",
+  "here",
+  "knitr",
+  "readr",
+  "rmarkdown",
+  "rticles")
+)

@@ -1,5 +1,10 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
+<!-- badges: start -->
+
+[![Launch Rstudio
+Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tj-mueller/holepunch_compendium/install-r?urlpath=rstudio)
+<!-- badges: end -->
 
 # holepunch-compendium
 
@@ -12,7 +17,7 @@ This repository contains the data and code for our reproduction paper:
 Our reproduction pre-print is online here:
 
 > Krystalli, A & Boettiger, C, (2018). *Partial Reproduction of
-> Boettiger Ecology Letters 2018;21:1255–1267 with rrtools*, Accessed 09
+> Boettiger Ecology Letters 2018;21:1255–1267 with rrtools*, Accessed 13
 > Feb 2023. Online at <https://doi.org/%7BDOI-to-paper%7D>
 
 ### How to cite
@@ -21,7 +26,7 @@ Please cite this compendium as:
 
 > Krystalli, A, (2023). *Compendium of R code and data for ‘Partial
 > Reproduction of Boettiger Ecology Letters 2018;21:1255–1267 with
-> rrtools’*. Accessed 09 Feb 2023. Online at
+> rrtools’*. Accessed 13 Feb 2023. Online at
 > <https://doi.org/%7BDOI-to-compendium%7D>
 
 ### How to download or install
