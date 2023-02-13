@@ -3,7 +3,7 @@
 <!-- badges: start -->
 
 [![Launch Rstudio
-Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tj-mueller/holepunch_compendium/install-r?urlpath=rstudio)
+Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tj-mueller/holepunch_compendium/main?urlpath=rstudio)
 <!-- badges: end -->
 
 # holepunch-compendium
