@@ -1,0 +1,19 @@
+Type: Compendium
+Package: holepunchCompendium
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.1
+Authors@R: 
+    person("Tjark", "Mueller", , "t.mueller@iwm-tuebingen.de", role = c("aut", "cre"))
+Description: binderized research compendium in R created using holepunch
+License: What license it uses
+Depends: 
+    dplyr,
+    ggplot2,
+    ggthemes,
+    here,
+    knitr,
+    readr,
+    rmarkdown,
+    rticles
+Encoding: UTF-8
+LazyData: true
